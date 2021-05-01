@@ -7,3 +7,5 @@ File structure:
 - /img: Images for the report.
 - report.pdf: Full report.
 - store_locations.ipynb: Jupyter notebook containing the sourcecode of this project.
+
+Article here: https://towardsdatascience.com/store-locations-d1025df22865
